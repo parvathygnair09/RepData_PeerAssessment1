@@ -5,7 +5,7 @@ This is data from a personal activity monitoring device. This device collects da
 
 This repository contains the following files:
 
-1. PA1_template.Rmd - R MArkdown document reporting the steps of the analysis
+1. PA1_template.Rmd - R Markdown document reporting the steps of the analysis
 2. PA1_template.md
 3. PA1_template.html - 2 & 3 produced by running 'knitr' package code. These are the contents of the markdown file in md & html format respectively.
 4. figure (folder) - folder with the plots for the analysis
